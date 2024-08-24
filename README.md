@@ -45,3 +45,8 @@
 
 ```bash
 python main.py
+
+
+
+## 시연영상
+https://youtu.be/0dWZBx3Ez50?si=kfydq7GPBWIDgueA
